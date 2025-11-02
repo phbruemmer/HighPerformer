@@ -24,7 +24,7 @@
 ---
 
 **2. How to block an application?**
-- The most important and easiest step is to find out what the application you want to block is called.
+- The most important and easiest step to block a process, is to find out what the application you want to block is called.
   Sometimes the process has a different name, so make sure you actually added the correct process to the `BLOCKED_APPLICATIONS`.
 - The easiest way (in my opinion) is to use the `process_lookup.py` script (not in the repo atm.).
   - Execute the application you want to block and then start the script.
