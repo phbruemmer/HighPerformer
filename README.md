@@ -30,5 +30,5 @@
   - Execute the application you want to block and then start the script.
   - Now, the first thing you see is a full list of all running processes on your computer.
     You can either search for your process manually, or try and search it via the input field.
-- When you found the process you want to block, simply add it to the `BLOCKED_APPLICATIONS` list
+- When you find the process you want to block, simply add it to the `BLOCKED_APPLICATIONS` list
   in the `BLOCKED.json` file and restart the `main.py` (with terminal) or `main.pyw` (without terminal) file .
